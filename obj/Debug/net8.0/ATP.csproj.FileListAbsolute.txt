@@ -1,5 +1,0 @@
-C:\Users\bsi21361\ATP\obj\Debug\net8.0\ATP.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\bsi21361\ATP\obj\Debug\net8.0\ATP.AssemblyInfoInputs.cache
-C:\Users\bsi21361\ATP\obj\Debug\net8.0\ATP.AssemblyInfo.cs
-C:\Users\bsi21361\ATP\obj\Debug\net8.0\ATP.csproj.CoreCompileInputs.cache
-C:\Users\bsi21361\ATP\obj\Debug\net8.0\ATP.sourcelink.json
