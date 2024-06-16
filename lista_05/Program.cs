@@ -1,6 +1,6 @@
-﻿using System;
+using System;
 
-public class Program
+class Program
 {
     public static void Main()
     {
@@ -14,7 +14,7 @@ public class Program
         Exercicio_01_lista_05 exercicio_01_lista_05  = new Exercicio_01_lista_05();
         exercicio_01_lista_05.Rodar();
                 break;
-
+                
             case 2:
 
         Exercicio_02_lista_05 exercicio_02_lista_05  = new Exercicio_02_lista_05();
@@ -68,9 +68,7 @@ public class Program
         Exercicio_10_lista_05 exercicio_10_lista_05  = new Exercicio_10_lista_05();
         exercicio_10_lista_05.Rodar();
                 break;
-
         }
     }
 
 }
-

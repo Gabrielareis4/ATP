@@ -5,7 +5,7 @@ class Program
     public static void mediaTurma(double[] notas)
     {
         double soma = 0;
-        int acimadamedia = 0;
+        int acimaDaMedia = 0;
 
         foreach(double n in notas)
         {
@@ -18,12 +18,12 @@ class Program
         {
             if (n > media)
             {
-                acimadamedia++;
+                acimaDaMedia++;
             }
         }
 
         Console.WriteLine($"\nMédia da turma: {media.ToString("F2")}");
-        Console.WriteLine($"Alunos com nota acima da média: {acimadamedia}");
+        Console.WriteLine($"Alunos com nota acima da média: {acimaDaMedia}");
     }
 
     public static void receberNotas(double[] notas)
